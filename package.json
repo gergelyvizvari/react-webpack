@@ -9,7 +9,10 @@
     "hot": "webpack-dev-server ./dist --hot --inline --module-bind 'css=style\\!css'",
     "prod": "NODE_ENV=production webpack -p"
   },
-  "keywords": [],
+  "repository": {
+    "url": "__repository__"
+  },
+  "keywords": ["react","webpack","gergely vizvari"],
   "author": "gergelyvizvari <vizvari.gergely@gmail.com>",
   "license": "MIT",
   "devDependencies": {
