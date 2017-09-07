@@ -1,8 +1,0 @@
-language: node_js
-node_js:
-  - 7
-  - 6
-  - 4
-before_install:
-  - currentfolder=${PWD##*/}
-  - if [ "$currentfolder" != 'gv-recat-webpack' ]; then cd .. && eval "mv $currentfolder gv-recat-webpack" && cd gv-recat-webpack; fi
