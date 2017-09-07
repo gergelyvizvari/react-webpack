@@ -1,6 +1,6 @@
 {
-  "name": "greg-react-webpack",
-  "version": "1.0.4",
+  "name": "generator-greg-react-webpack",
+  "version": "1.0.6",
   "description": "",
   "main": "index.html",
   "scripts": {
@@ -12,7 +12,7 @@
   "repository": {
     "url": "https://github.com/gergelyvizvari/react-webpack"
   },
-  "keywords": ["react","webpack","gergely vizvari"],
+  "keywords": ["react","webpack","gergely vizvari","yeoman-generator"],
   "author": "gergelyvizvari <vizvari.gergely@gmail.com>",
   "license": "MIT",
   "devDependencies": {
