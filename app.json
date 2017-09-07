@@ -1,0 +1,13 @@
+{
+  "name": "gv-react-webpack",
+  "description": "A React app using Express",
+  "keywords": [
+    "react",
+    "webpack",
+    "boilerplate"
+  ],
+  "website": "https://github.com/gergelyvizvari/react-webpack",
+  "repository": "https://github.com/gergelyvizvari/react-webpack",
+  "success_url": "/",
+  "env": {}
+}

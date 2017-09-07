@@ -1,6 +1,6 @@
 {
   "name": "greg-react-webpack",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "index.html",
   "scripts": {
@@ -10,7 +10,7 @@
     "prod": "NODE_ENV=production webpack -p"
   },
   "repository": {
-    "url": "__repository__"
+    "url": "https://github.com/gergelyvizvari/react-webpack"
   },
   "keywords": ["react","webpack","gergely vizvari"],
   "author": "gergelyvizvari <vizvari.gergely@gmail.com>",
