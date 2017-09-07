@@ -8,3 +8,4 @@
 .gitignore
 .git/
 npm*
+package-lock.json
