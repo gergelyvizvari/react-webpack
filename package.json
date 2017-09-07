@@ -10,8 +10,8 @@
     "prod": "NODE_ENV=production webpack -p"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "gergelyvizvari <vizvari.gergely@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
